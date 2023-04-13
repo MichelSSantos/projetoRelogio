@@ -19,16 +19,209 @@ main{
     justify-content: center;   
 }
 .clock{
-    width: 600px;
-    height: 600px;
+    min-width: 600px;
+    min-height: 600px;
     background-color: rgb(248, 248, 248);
     border-radius: 600px;
-    border: 15px groove #333;
+    border: 15px groove #000000;
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+.traco{
+    font-size: 0.5rem;
+    font-weight: 500;
+
+    position: absolute;
+    width: 100%;
+    height: 102%;
+    text-align: center;
+    padding: 5px;
+    transform: rotate();
+}
+
+.traco-1{
+    transform: rotate(6deg);
+}
+.traco-2{
+    transform: rotate(12deg);
+}
+.traco-3{
+    transform: rotate(18deg);
+}
+.traco-4{
+    transform: rotate(24deg);
+}
+.traco-5{
+    transform: rotate(30deg);
+}
+.traco-6{
+    transform: rotate(36deg);
+}
+.traco-7{
+    transform: rotate(42deg);
+}
+.traco-8{
+    transform: rotate(48deg);
+}
+.traco-9{
+    transform: rotate(54deg);
+}
+.traco-10{
+    transform: rotate(60deg);
+}
+.traco-11{
+    transform: rotate(66deg);
+}
+.traco-12{
+    transform: rotate(72deg);
+}
+.traco-13{
+    transform: rotate(78deg);
+}
+.traco-14{
+    transform: rotate(84deg);
+}
+.traco-15{
+    transform: rotate(90deg);
+}
+.traco-16{
+    transform: rotate(96deg);
+}
+.traco-17{
+    transform: rotate(102deg);
+}
+.traco-18{
+    transform: rotate(108deg);
+}
+.traco-19{
+    transform: rotate(114deg);
+}
+.traco-20{
+    transform: rotate(120deg);
+}
+.traco-21{
+    transform: rotate(126deg);
+}
+.traco-22{
+    transform: rotate(132deg);
+}
+.traco-23{
+    transform: rotate(138deg);
+}
+.traco-24{
+    transform: rotate(144deg);
+}
+.traco-25{
+    transform: rotate(150deg);
+}
+.traco-26{
+    transform: rotate(156deg);
+}
+.traco-27{
+    transform: rotate(162deg);
+}
+.traco-28{
+    transform: rotate(168deg);
+}
+.traco-29{
+    transform: rotate(174deg);
+}
+.traco-30{
+    transform: rotate(180deg);
+}
+.traco-31{
+    transform: rotate(186deg);
+}
+.traco-32{
+    transform: rotate(192deg);
+}
+.traco-33{
+    transform: rotate(198deg);
+}
+.traco-34{
+    transform: rotate(204deg);
+}
+.traco-35{
+    transform: rotate(210deg);
+}
+.traco-36{
+    transform: rotate(216deg);
+}
+.traco-37{
+    transform: rotate(222deg);
+}
+.traco-38{
+    transform: rotate(228deg);
+}
+.traco-39{
+    transform: rotate(234deg);
+}
+.traco-40{
+    transform: rotate(240deg);
+}
+.traco-41{
+    transform: rotate(246deg);
+}
+.traco-42{
+    transform: rotate(252deg);
+}
+.traco-43{
+    transform: rotate(258deg);
+}
+.traco-44{
+    transform: rotate(264deg);
+}
+.traco-45{
+    transform: rotate(270deg);
+}
+.traco-46{
+    transform: rotate(276deg);
+}
+.traco-47{
+    transform: rotate(282deg);
+}
+.traco-48{
+    transform: rotate(288deg);
+}
+.traco-49{
+    transform: rotate(294deg);
+}
+.traco-50{
+    transform: rotate(300deg);
+}
+.traco-51{
+    transform: rotate(306deg);
+}
+.traco-52{
+    transform: rotate(312deg);
+}
+.traco-53{
+    transform: rotate(318deg);
+}
+.traco-54{
+    transform: rotate(324deg);
+}
+.traco-55{
+    transform: rotate(330deg);
+}
+.traco-56{
+    transform: rotate(336deg);
+}
+.traco-57{
+    transform: rotate(342deg);
+}
+.traco-58{
+    transform: rotate(348deg);
+}
+.traco-59{
+    transform: rotate(354deg);
+}
+.traco-60{
+    transform: rotate(360deg);
+}
+
 .number{
     font-size: 1.2rem;
     font-weight: 600;
